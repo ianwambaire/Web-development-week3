@@ -1,0 +1,37 @@
+body{
+    background-color: aquamarine;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul a{
+    text-decoration: none;
+}
+nav ul a:link{
+    color: blue;
+}
+nav ul a:visited{
+    color:red;
+}
+nav ul a:hover{
+    color: green;
+    text-decoration: underline;
+    background-color: white;
+}
+nav ul a:active{
+    color:antiquewhite;
+}
+#my{
+    border: 2px solid black;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: justify;
+    padding: 20px 10px;
+    margin: 20px 10px 20px 10px;
+    
+}
+h2{
+    background-color: whitesmoke;
+
+}
