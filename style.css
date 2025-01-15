@@ -7,8 +7,11 @@ nav ul{
 nav ul li{
     display: inline;
 }
-nav ul a{
+nav ul li a{
     text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 14px 15px;
 }
 nav ul a:link{
     color: blue;
